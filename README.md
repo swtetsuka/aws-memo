@@ -1,1 +1,3 @@
 # aws-memo
+
+global-accelerator
